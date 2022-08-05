@@ -1,0 +1,9 @@
+Ehhez szükséges a Uno_jatekos_V1.zip. Csatoltam azt is ezért.
+A kliensek forráskódja abban van, mert itt nem történ módosítás bennük.
+A szerver program az előző verzióhoz képest az alábbiakban változott:
+ + képes a halmozást kezelni
+ + a játékosokkal közli, hogy a többi játékos mit csinált
+ + néhány feleslegesen kiírt sorral kevesebbet ír ki
+ + csak botok elleni tesztelés elérhető 
+
+A dokumentációban le van írva (4.7), hogy a többi játékos cselekvéseit, hogyan közli a szerver.  

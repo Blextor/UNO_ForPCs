@@ -1,0 +1,18 @@
+Uno_V_Kliens_Stresszteszt_v3(_local is jó)
+Uno_V_Server_Stresszteszt_v3
+
+Ez a két fájl KELL !!!
+
+A szerver elindítása után kell a klienseket elindítani.
+
+A kliensek közül legalább kettőt, legfeljebb ötöt.
+
+Ahány klienst elindítunk annyiszor tízet írjunk be másodjára a klienseknél, és elsőre meg 2-t;
+4 kliens esetén minden kliensnél a beírt két szám: 2, 40.
+
+Ez után lefut a játék, és bele kell kattintani az ablakokba, hogy leálljon a hibaüzenet generálás.
+Utána a tetejére felgörgetve/húzva meg lehet nézni, hogy bonyolodott le a játék minden kliens szemszögéből külön külön.
+
+Végül zárjuk be mindegyik programot.
+
+

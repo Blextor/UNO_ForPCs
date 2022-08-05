@@ -1,0 +1,16 @@
+A kliens tesz programok arra valók, 
+hogy a szerverhez (a gépemhez) a csatlakozást lehessen tesztelni.
+
+A Szerver programok, a csoportban említett hibákat már nem tartalmazzák.
+Egyéb kisseb, de fontos hibákat is javítottam.
+
+A Módosítások-ban a _Közös-t mindenkinek kell használnia.
+Igazából egy sort kell kikommentelni a másiknál meg törölni kell a kikommentelést.
+Ott, ahol a képet küldtem az 1.3-ban.
+
+A Módosítások fontosak. A .cpp nélkül nem jöhetne kb össze semmi.
+A .h-k nélkül meg kavarodás lenne. 
+Javaslom, hogy mindenki használja a saját mappájában található .h-kat.
+Mindenkinek van 2, hogy a "versenyen" mindenki tudjon két programot indítani.
+
+

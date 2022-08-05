@@ -1,0 +1,36 @@
+v1 szerver
+
+A szerver jelenleg az alábbiakat tudja:
+
+ - Képes megfelelő azonosítóval (IDs.txt listából) csatlakozó személyt szobába engedni.  2
+
+ - Képes egy portot a játék után felszabadítani. 3
+
+ - Képes kezelni ha a kliens egy lapot lerak, felhúzza a ráeső lapokat, illetve kimarad.  4
+
+ - Képes a lassú klienseket észrevenni (1 sec timeout), és játékukat törölni. Így nem áll meg a szerver.  1
+
+ - Képes kezelni azt, hogy ha eltűnik egy kliens, úgy hogy törli a játékukat.  3
+
+
+Hátravan még:
+
+ - Nincs a szervernek saját botja, amivel tudnának öntesztelni a kliensek.  4  ALAKUL (sok mindent tud már)
+
+ - Nincs olyan szoba, ahol csak egy játékos van és a többi robot.  1  APRÓSÁG
+
+ - Nem lehet több lapot egyszerre lerakni.  2    CHECK
+
+ - Nem képes több játékost egymás után kihagyni.  2  CHECK
+
+ - Nem ad képet a klienseknek a történésekről. (HISTORY)  5  FONTOS
+
+ - Nincs az "IDs.txt" aktualizálva. Nincs mindenki beírva, csak a tesztesek.  1  UTOLSÓ
+
+ - Nem véletlenül keveri össze a játékosokat.  1  CHECK
+
+ - Nem számít pontszámot.  2  CHECK
+
+ - Nem warning mentes.  1  CHECK
+
+ - Ha valaki kezdetben nem küld üzenetet, akkor nem próbálkozhat újra, mert a szerver nem füleli a portot.  1  CHECK

@@ -1,0 +1,2 @@
+Uno_V_Kliens_Stresszteszt_v1_port_2021 és a Uno_V_Kliens_Stresszteszt_v1_port_2022 programokkal együtt tesztelendő!
+Egyszerre szolgálja ki őket egy program, valamiért ugyan olyan gyorsan, mint ha külön külön történne a dolog.

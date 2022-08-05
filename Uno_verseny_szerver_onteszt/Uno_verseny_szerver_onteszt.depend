@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1613464547 source:c:\users\boldizsar\desktop\c++\uno_verseny_szerver_onteszt\network.cpp
+	"Network.h"
+
+1613137940 source:c:\users\boldizsar\desktop\c++\uno_verseny_szerver_onteszt\main.cpp
+	<iostream>
+	<WinSock2.h>
+	<WS2tcpip.h>
+	<system_error>
+	<string>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<thread>
+	<utility>
+	<stdio.h>
+	<winsock2.h>
+	"Network.h"
+	"Game.h"
+	"Server.h"
+
+1613345040 c:\users\boldizsar\desktop\c++\uno_verseny_szerver_onteszt\network.h
+	<WinSock2.h>
+	<WS2tcpip.h>
+	<system_error>
+	<string>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+	<thread>
+	<utility>
+	<list>
+	<sstream>
+	<chrono>
+	<windows.h>
+	<fstream>
+
+1613425385 source:c:\users\boldizsar\desktop\c++\uno_verseny_szerver_onteszt\game.cpp
+	"Game.h"
+
+1613411308 c:\users\boldizsar\desktop\c++\uno_verseny_szerver_onteszt\game.h
+	"Network.h"
+	"Server.h"
+	<time.h>
+
+1613342387 c:\users\boldizsar\desktop\c++\uno_verseny_szerver_onteszt\server.h
+	"Network.h"
+
+1613130726 source:c:\users\boldizsar\desktop\c++\uno_verseny_szerver_onteszt\server.cpp
+	"Server.h"
+

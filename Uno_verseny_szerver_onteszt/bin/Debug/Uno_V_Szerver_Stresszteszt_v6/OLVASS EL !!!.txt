@@ -1,0 +1,4 @@
+Hamachi-n alapszik.
+25.93.218.22 az IP
+és 2020-2029-ig vannak a PORT-ok.
+A kliens kevesebbet ír ki, így gyorsabb sokkal.
